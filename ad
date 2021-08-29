@@ -1,0 +1,31 @@
+[33mcommit 0761a44bfca6353133da9db12767afe904e80df6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Hanabiraa <workflow.elec@gmail.com>
+Date:   Sun Aug 29 20:31:20 2021 +0300
+
+    update pandas-way
+
+.gitignore
+README.md
+
+[33mcommit 7a8d4df9a3f3c7261d1d3b749784480bc927931f[m
+Author: Hanabiraa <workflow.elec@gmail.com>
+Date:   Sun Aug 29 20:28:13 2021 +0300
+
+    update pandas-way
+
+pandas-way/Pandas tutorial beginner.ipynb
+pandas-way/data/pokemons/mod_csv_for_pokemons.csv
+pandas-way/data/pokemons/mod_csv_for_pokemons.txt
+pandas-way/data/pokemons/mod_csv_for_pokemons.xlsx
+pandas-way/data/pokemons/pokemon_data.csv
+pandas-way/data/pokemons/pokemon_data.txt
+pandas-way/data/pokemons/pokemon_data.xlsx
+
+[33mcommit 74d9045b666d04c0ae703742c9ac850a14f9d6c6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vitaly <57064749+Hanabiraa@users.noreply.github.com>
+Date:   Sun Aug 29 17:35:39 2021 +0300
+
+    Initial commit
+
+.gitignore
+README.md
