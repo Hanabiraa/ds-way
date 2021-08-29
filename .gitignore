@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # ignore storage with datasets
-.pandas-way/data/
+./pandas-way/data/
