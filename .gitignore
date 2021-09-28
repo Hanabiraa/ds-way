@@ -130,3 +130,6 @@ dmypy.json
 
 # ignore storage with datasets
 /pandas-way/data/
+
+# ignore pycharm
+.idea

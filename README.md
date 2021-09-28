@@ -12,6 +12,9 @@ My study to study DS&amp;ML
 >> matplotlib-way
 
 >> seaborn-way
+
+> algorithms-way for training in python and interesting algo-tasks
+
 ***
 ## Some important info
 - in gitignore add storage with datasets .pandas-way/data
