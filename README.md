@@ -9,10 +9,6 @@ My study to study DS&amp;ML
 
 > visual-way for data visialization practices
 
->> matplotlib-way
-
->> seaborn-way
-
 > algorithms-way for training in python and interesting algo-tasks
 
 ***

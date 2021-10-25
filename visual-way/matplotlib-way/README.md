@@ -4,6 +4,10 @@ Most of the tutorials from this directory will be created based on the tutorials
 
 _Tutorials that have not been revised from the tutorials from the official MatPlotLib site will be placed in the root of this directory_
 
+> assets
+
+this directory contains static files (like the pictures used in notebooks)
+
 > Introductory
 
 These tutorials cover the basics of creating visualizations with Matplotlib, as well as some best-practices in using the package effectively.
