@@ -13,3 +13,7 @@ Contains various implementations of algorithms
 > data-structures-way
 
 Contains various implementations of data structures
+
+> python-way
+
+For learning various built-in libraries or Python syntax tricks
